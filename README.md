@@ -1,7 +1,7 @@
 ## Olá, eu sou o João 👋
 
 Sou desenvolvedor Frontend, gosto muito da interatividade das páginas web e como elas funcionam e de como a programação facilita a vida
-das pessoas. Futuramente pretendo ser desenvolvedor Fullstack utilizando o NodeJS.
+das pessoas. Futuramente pretendo ser desenvolvedor Fullstack.
 
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jpmdrsdev.com.br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopmedeiros/)<div>
