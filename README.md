@@ -1,16 +1,5 @@
 ### <div align="center">Olá! Eu sou o João, desenvolvedor full stack</div>  
 
-Especializado em otimizar sistemas utilizando Next.js, NestJS, Java, Spring Boot e Postgres, entregando soluções ágeis que aumentam a eficiência e melhoram a experiência do usuário.
-Sou apaixonado por construir aplicações escaláveis e de alta performance que geram impacto real. Me destaco em ambientes dinâmicos e acelerados, conduzindo projetos do conceito à entrega com excelência.
-
-- 🚀 Tenho 2 anos de experiência em desenvolvimento de software  
-
-- 🔭 Atualmente trabalho desenvolvendo sistemas de alarmes industriais   
-  
-
-<br/>  
-
-
 ## Skills  
 <table><tr><td valign="top" width="33%">
 
